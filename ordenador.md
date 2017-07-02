@@ -1,7 +1,6 @@
 # Targeta gráfica
 
-### AMD Radeon Pro (Diciembre 2017)
-
+### AMD Radeon
 
 | 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
 | ------------------------- | ------------- | ------------- | ------------- |
@@ -16,8 +15,28 @@
 | Power						| 300-375W		| ¿?			| ¿?			|
 | Price						| 999€			| Dic 2017		| Dic 2017		|
 
-Componentes ordenador
-=====================
+### Nvidia
+
+
+# Procesador
+
+ * Núcleos: 8 o 16
+
+
+# Memoria
+
+32 GB
+
+
+# Almacenamiento
+
+ * SSD: 512BG o 1TB
+ * HDD: 2TB
+
+
+
+# Componentes ordenador
+
 
 | Componente       | Modelo               | Precio |
 | ---------------- | -------------------- | ------ |
