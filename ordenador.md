@@ -1,3 +1,16 @@
+# Targeta gráfica
+
+
+| **Targeta gráfica**		| Pro Vega 64	| Pro Vega 56   |
+| ------------------------- | ------------- | ------------- |
+| Shading units				| 4,096			| 3,584			|
+| Texture mapping units		| 256			| 224			|
+| Render output processors	| 64			| 64			|
+| Compute units				| 64			| 56			|
+| Performance               | 11,059 GFLOPS	| 9,677 GFLOPS	|
+| Clock speed				| 1,250 MHz		| 1,250 MHz		|
+| Turbo clock speed			| 1,350 MHz		| 1,350 MHz		|
+
 Componentes ordenador
 =====================
 
@@ -15,3 +28,9 @@ Componentes ordenador
 
 Total ~1300€
 
+
+Placa base
+----------
+ * Chipset: Z270
+ * Ranuras de RAM DDR4: 4
+ * NVIDIA SLI: Sí
