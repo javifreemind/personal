@@ -1,15 +1,20 @@
 # Targeta gráfica
 
+### AMD Radeon Pro (Diciembre 2017)
 
-| **Targeta gráfica**		| Pro Vega 64	| Pro Vega 56   |
-| ------------------------- | ------------- | ------------- |
-| Shading units				| 4,096			| 3,584			|
-| Texture mapping units		| 256			| 224			|
-| Render output processors	| 64			| 64			|
-| Compute units				| 64			| 56			|
-| Performance               | 11,059 GFLOPS	| 9,677 GFLOPS	|
-| Clock speed				| 1,250 MHz		| 1,250 MHz		|
-| Turbo clock speed			| 1,350 MHz		| 1,350 MHz		|
+
+| 							| RX Vega FE	| Pro Vega 64	| Pro Vega 56   |
+| ------------------------- | ------------- | ------------- | ------------- |
+| Stream proccesors			| 4096			| 4096			| 3584			|
+| Compute units				| 64			| 64			| 56			|
+| Memory					| 16GB HBM2		| 16GB HBM2		| 8GB HBM2		|
+| Memory bus				| 2048 bits		| 2048 bits		| 2048 bits		|
+| Bandwidth					| 484GB/s		| ¿?			| 400GB/s		|
+| Texture mapping units		| 256			| 256			| 224			|
+| Render output processors	| 64			| 64			| 64			|
+| Performance               | ~13 TFLOPS	| ~13 TFLOPS	| ~11 TFLOPS	|
+| Power						| 300-375W		| ¿?			| ¿?			|
+| Price						| 999€			| Dic 2017		| Dic 2017		|
 
 Componentes ordenador
 =====================
